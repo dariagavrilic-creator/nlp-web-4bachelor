@@ -3,6 +3,10 @@
 **Группы:** 3834504/30101 и 3834504/30102, 4 курс бакалавриата
 **Команды:** 2–3 человека · **Пары:** 7 у группы 1, 8 у группы 2
 
+Ссылка на [Google Disk](https://drive.google.com/drive/folders/1NMQJ5koH1HTXYSbyF2AmRVPLbGWEBkJx?usp=drive_link)   
+
+Ссылка на [шаблон репозитория](https://drive.google.com/file/d/1NACwSYOPcjg1e7w_12dkm31tqd7878qi/view?usp=sharing)
+
 ---
 
 ## О дисциплине
