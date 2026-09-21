@@ -369,7 +369,7 @@ if tag:
 
 ## 8. Сдача и отчётность
 
-**Что сдаётся** (в репозиторий проекта, папка `mongo/`):
+**Что сдаётся** (в личную папку на [Google Disk] (https://drive.google.com/drive/folders/1HkILs7e-SxXEwdzpxYbsmnqLSvu6mpJF?usp=drive_link)):
 
 - `schema.md` — схема документа и записанные запросы из раздела 4;
 - `export.json` — экспорт коллекции;
